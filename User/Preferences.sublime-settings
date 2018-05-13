@@ -6,6 +6,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Emmet",
+		"LiveReload",
+		"LiveStyle",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
