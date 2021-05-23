@@ -17,7 +17,7 @@
   "author": "dz0ny",
   "license": "MIT",
   "devDependencies": {
-    "grunt": "~0.4.0rc8",
+    "grunt": "4.17.21",
     "grunt-contrib-uglify": "~0.1.1rc6",
     "grunt-contrib-watch": "~0.2.0",
     "grunt-contrib-qunit": "~0.1.1",
